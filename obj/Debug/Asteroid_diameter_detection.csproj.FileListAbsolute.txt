@@ -1,0 +1,6 @@
+C:\VSC Projects\C#\AI\Asteroid_diameter_detection\bin\Debug\Asteroid_diameter_detection.exe.config
+C:\VSC Projects\C#\AI\Asteroid_diameter_detection\bin\Debug\Asteroid_diameter_detection.exe
+C:\VSC Projects\C#\AI\Asteroid_diameter_detection\bin\Debug\Asteroid_diameter_detection.pdb
+C:\VSC Projects\C#\AI\Asteroid_diameter_detection\obj\Debug\Asteroid_diameter_detection.csprojAssemblyReference.cache
+C:\VSC Projects\C#\AI\Asteroid_diameter_detection\obj\Debug\Asteroid_diameter_detection.exe
+C:\VSC Projects\C#\AI\Asteroid_diameter_detection\obj\Debug\Asteroid_diameter_detection.pdb
