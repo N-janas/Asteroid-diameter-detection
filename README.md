@@ -1,5 +1,5 @@
 # Asteroid-diameter-detection
-Neural network created to detect asteroid diameter
+Neural network created in C# to detect asteroid diameter. Dataset was analyzed and preprocessed in python (Jupyter notebook).
 
 Add database from https://www.kaggle.com/basu369victor/prediction-of-asteroid-diameter?select=Asteroid_Updated.csv and paste it to bin/Debug/Data.
 The program purpose is to test neural network performance. <br>
